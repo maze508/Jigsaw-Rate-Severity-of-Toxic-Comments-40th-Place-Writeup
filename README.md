@@ -21,9 +21,9 @@ This open ended nature to the problems allow for more space and creativity to ex
 
 The Data I chose to use for the competition can be found below :
 
-   1. [Jigsaw Toxic Comment Classification Challenge](https://www.kaggle.com/rajkumarl/ruddit-jigsaw-dataset)
+   1. [Jigsaw Toxic Comment Classification Challenge](https://www.kaggle.com/julian3833/jigsaw-toxic-comment-classification-challenge)
 
-   2. [Jigsaw Multilingual Toxic Comment Classification](https://www.kaggle.com/rajkumarl/ruddit-jigsaw-dataset)
+   2. [Jigsaw Multilingual Toxic Comment Classification](https://www.kaggle.com/julian3833/jigsaw-multilingual-toxic-comment-classification?select=jigsaw-toxic-comment-train.csv)
    
    3. [Ruddit Jigsaw Dataset](https://www.kaggle.com/rajkumarl/ruddit-jigsaw-dataset)
    
