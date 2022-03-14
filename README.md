@@ -80,7 +80,7 @@ I spent most of my time tuning the Learning Rates and Decay Rates of my RoBERTa 
 ## What didnt work 
 
 - MLM
-- Boosted Trees (Funny enough it was the first thing I tried but couldnt make it work. Other competitors have found success with this and can be found [here]([link](https://www.kaggle.com/c/jigsaw-toxic-severity-rating/discussion/306074)).
+- Boosted Trees (Funny enough it was the first thing I tried but couldnt make it work. Other competitors have found success with this and can be found [here](https://www.kaggle.com/c/jigsaw-toxic-severity-rating/discussion/306074).
 
 **Only the Transformer Inference Code and Model Checkpoints Datasets will be shared in this repository. The inspiration behind the Linear Model can be found [here](https://www.kaggle.com/readoc/toxic-linear-model-pseudo-labelling-lb-0-864)**
 
